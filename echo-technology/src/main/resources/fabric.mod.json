@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "echo_technology",
+  "version": "${version}",
+  "name": "Echo Technology",
+  "description": "Sculk-tech machines powered by Echo Energy: a reactor that burns fuel, a fabricator for components, energy tools, and machine upgrades.",
+  "authors": ["krushnahon99-netizen"],
+  "icon": "assets/echo_technology/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.echotechnology.EchoTechnology"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

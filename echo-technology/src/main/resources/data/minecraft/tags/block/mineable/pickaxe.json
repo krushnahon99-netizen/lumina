@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "echo_technology:echo_reactor",
+    "echo_technology:echo_fabricator",
+    "echo_technology:echo_charger"
+  ]
+}

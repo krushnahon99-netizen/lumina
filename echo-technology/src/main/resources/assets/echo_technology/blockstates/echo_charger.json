@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "echo_technology:block/echo_charger" },
+    "facing=east": { "model": "echo_technology:block/echo_charger", "y": 90 },
+    "facing=south": { "model": "echo_technology:block/echo_charger", "y": 180 },
+    "facing=west": { "model": "echo_technology:block/echo_charger", "y": 270 }
+  }
+}

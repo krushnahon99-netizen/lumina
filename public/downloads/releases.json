@@ -1,0 +1,21 @@
+{
+  "releases": [
+    {
+      "version": "0.1.0",
+      "file": "echo_technology-0.1.0.jar",
+      "bytes": 21990,
+      "sha256": "f66d7d97a5e86a89bea39f623fda23e4e0302b6082242b623366df2c912cecae",
+      "builtAt": "2026-10-23T03:11:15.929Z",
+      "tests": {
+        "total": 0,
+        "failed": 0
+      },
+      "serverSmokeTest": {
+        "result": "pass",
+        "at": "2026-10-23T03:16:03.026Z"
+      }
+    }
+  ],
+  "minecraft": "1.21.1",
+  "fabricApi": "0.116.17+1.21.1"
+}

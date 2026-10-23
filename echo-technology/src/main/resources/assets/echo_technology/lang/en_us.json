@@ -1,0 +1,13 @@
+{
+  "itemGroup.echo_technology": "Echo Technology",
+  "block.echo_technology.echo_reactor": "Echo Reactor",
+  "block.echo_technology.echo_fabricator": "Echo Fabricator",
+  "block.echo_technology.echo_charger": "Echo Charger",
+  "item.echo_technology.resonant_alloy": "Resonant Alloy",
+  "item.echo_technology.echo_circuit": "Echo Circuit",
+  "item.echo_technology.energy_cell": "Energy Cell",
+  "item.echo_technology.echo_drill": "Echo Drill",
+  "item.echo_technology.echo_scanner": "Echo Scanner",
+  "item.echo_technology.efficiency_upgrade": "Efficiency Upgrade",
+  "item.echo_technology.capacity_upgrade": "Capacity Upgrade"
+}
